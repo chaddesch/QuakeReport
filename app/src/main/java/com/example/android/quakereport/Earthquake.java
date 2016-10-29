@@ -29,6 +29,4 @@ public class Earthquake {
     public String getDate() {
         return mDate;
     }
-
-    test
 }
