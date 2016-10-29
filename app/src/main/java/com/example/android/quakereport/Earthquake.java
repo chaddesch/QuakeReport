@@ -30,7 +30,5 @@ public class Earthquake {
         return mDate;
     }
 
-
-
-
+    test
 }
